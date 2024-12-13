@@ -1,5 +1,5 @@
 #  **Return of the old Steam Family Sharing[ENG]**
-<font size="3">**This little [.bat] is designed to bring back old Steam Family Sharing**</font>
+**This little [.bat] is designed to bring back old Steam Family Sharing**
 
 ![image](https://github.com/CatWbutter/Old-Family-Sharing/blob/main/A5-ShareGamesonSteam-annotated-aff78d625c824e4ea970d8688167381b.jpg)
 
