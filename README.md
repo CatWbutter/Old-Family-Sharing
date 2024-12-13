@@ -1,5 +1,5 @@
 #  **Return of the old Steam Family Sharing[ENG]**
-**This little [.bat] is designed to bring back old Steam Family Sharing**
+This little [.bat] is designed to bring back old Steam Family Sharing
 
 ![image](https://github.com/CatWbutter/Old-Family-Sharing/blob/main/A5-ShareGamesonSteam-annotated-aff78d625c824e4ea970d8688167381b.jpg)
 
@@ -15,7 +15,7 @@ If you have any insights write me about them :3
 
 
 # **Возвращение старых семейных груп Стим[RUS]**
-<font size="3">**Этот маленький [.bat] предназначен для возвращения функции семейных груп**</font>
+Этот маленький [.bat] предназначен для возвращения функции семейных груп
 
 ![image](https://github.com/CatWbutter/Old-Family-Sharing/blob/main/A5-ShareGamesonSteam-annotated-aff78d625c824e4ea970d8688167381b.jpg)
 
