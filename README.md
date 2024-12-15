@@ -5,6 +5,7 @@ This little [.bat] is designed to bring back old Steam Family Sharing
 
 # **Installation**
 ![image](https://github.com/user-attachments/assets/a87d47eb-38ae-4f94-b054-4b3018b2fd94)
+- First of all, completely close Steam
 - Just simply drop the [file] into your Steam folder (usually it's - C:\Program Files (x86)\Steam)
 - Open the file
 
@@ -21,7 +22,8 @@ If you have any insights write me about them :3
 
 # **Установка**
 ![image](https://github.com/user-attachments/assets/a87d47eb-38ae-4f94-b054-4b3018b2fd94)
-- Переместите [файл] в корневую папку стим (обычно это - C:\Program Files (x86)\Steam) 
+- Сначала полностью закройте Стим
+- Переместите [файл] в корневую папку Стим (обычно это - C:\Program Files (x86)\Steam) 
 - Откройте файл
 
 # **Теперь у вас есть старые семейные группы**
